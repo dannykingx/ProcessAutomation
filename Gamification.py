@@ -1,5 +1,5 @@
 # ProcessAutomation
-Developing a points systems for drillers based on W2S, S2S, S2W, W2W connection times.
+#Developing a points systems for drillers based on W2S, S2S, S2W, W2W connection times.
 #############################################################################################################################
 #reading all the values (both from database and PLC)
 #convert to python data set, then read from dataset and store values in variables
